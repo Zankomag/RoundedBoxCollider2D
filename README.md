@@ -5,6 +5,7 @@ It's altered for specific rounded tiles.
 
 ## Features
 You can pick which corners are rounded.
+You can adjust smoothness.
 ![Screenshot](Example.png?raw=true "Example")
 
 ## Installation:
