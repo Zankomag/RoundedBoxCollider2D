@@ -14,5 +14,5 @@ Drag scripts to your project.
 There are two ways to add the commponent to GameObject:
 
 - Drag the script from the project window onto the GameObject
-  or
+ 
 - From the inspector window: Add Component > Physics 2D > Rounded Box Collider 2D
