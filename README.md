@@ -4,7 +4,7 @@ A modified [GuyQuad](https://github.com/GuyQuad/Custom-2D-Colliders)'s RoundedBo
 It's altered for specific rounded tiles.
 
 ## Features
-To pick which corners are rounded.
+You can pick which corners are rounded.
 ![Screenshot](Example.png?raw=true "Example")
 
 ## Installation:
