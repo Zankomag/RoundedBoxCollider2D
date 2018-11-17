@@ -11,7 +11,7 @@ You can pick which corners are rounded.
 Drag scripts to your project.
 
 ## Usage
-There are two ways to add commponen to GameObject:
+There are two ways to add the commponent to GameObject:
 
 - Drag the script from the project window onto the GameObject
   or
